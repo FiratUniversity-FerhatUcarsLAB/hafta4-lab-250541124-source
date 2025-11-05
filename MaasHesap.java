@@ -1,8 +1,16 @@
-faik dursun
-  250541124
-05.11.2025
-  maas hesap java
+ADI SOYADI: Faik dursun
+OĞRENCİ NO :250541124
+TARİH :05.11.2025
+görev 3 maaş hesaplama java
+
+
+
+
+
+
+  
   import java.util.Scanner;
+
 
 public class maasHesap {
     public static void main(String[] args) {
